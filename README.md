@@ -12,3 +12,4 @@ Version plan:
 
 Client update notes:
 - First client commit adds local checkout instructions for version `01408`.
+- Second client commit records a second revision so the repository now contains three versions.
