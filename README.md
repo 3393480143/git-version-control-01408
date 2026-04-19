@@ -9,3 +9,6 @@ Version plan:
 - `v1-import-01408`: initial import
 - `v2-update-01408`: first modification and commit
 - `v3-update-01408`: second modification and commit
+
+Client update notes:
+- First client commit adds local checkout instructions for version `01408`.

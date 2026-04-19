@@ -4,6 +4,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 DESKTOP = Path(r"C:\Users\wang\Desktop")
 FONT_PATH = r"C:\Windows\Fonts\msyh.ttc"
+STUDENT_SUFFIX = "01408"
 
 
 def font(size: int, bold: bool = False):
