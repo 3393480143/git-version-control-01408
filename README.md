@@ -4,6 +4,7 @@ This repository is used to demonstrate basic version control operations for stud
 
 Files:
 - `generate_hw5_8_diagrams.py`
+- `submission_materials_01408/`: screenshots and operation notes for coursework evidence
 
 Version plan:
 - `v1-import-01408`: initial import
@@ -13,3 +14,6 @@ Version plan:
 Client update notes:
 - First client commit adds local checkout instructions for version `01408`.
 - Second client commit records a second revision so the repository now contains three versions.
+
+Evidence materials:
+- Open `submission_materials_01408` in the repository to view screenshots containing `01408`.
